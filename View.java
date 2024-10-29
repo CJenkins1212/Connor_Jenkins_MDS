@@ -1,5 +1,8 @@
 import java.util.*;
 
+/* The View class give the user the options to interact with the functions of the controller class
+through a list of options that are output to the console, it takes the user's input to decide where to go
+*/
 public class View {
     public static void main(String[] args) {
         //Initializes scanner
